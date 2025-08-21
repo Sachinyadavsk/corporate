@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/corporate/static/css/main.01d55d55.css",
+    "main.js": "/corporate/static/js/main.a9fa7ec8.js",
+    "static/js/453.82f77313.chunk.js": "/corporate/static/js/453.82f77313.chunk.js",
+    "static/media/img-hero2.jpg": "/corporate/static/media/img-hero2.7a396087717d6aac698a.jpg",
+    "static/media/img5.jpg": "/corporate/static/media/img5.005ef6648860b053814d.jpg",
+    "static/media/img-hero1.jpg": "/corporate/static/media/img-hero1.25bc79d8d10f678124f4.jpg",
+    "static/media/img3.jpg": "/corporate/static/media/img3.69dad03ac4f397774b6d.jpg",
+    "static/media/img6.jpg": "/corporate/static/media/img6.9e08883b1c713f3beae0.jpg",
+    "static/media/bg-testimonial.jpg": "/corporate/static/media/bg-testimonial.b26cbabc972e95786cbf.jpg",
+    "static/media/img-hero3.jpg": "/corporate/static/media/img-hero3.fc13d76750b1bf1ff1e5.jpg",
+    "static/media/img8.jpg": "/corporate/static/media/img8.1066af4480d9f53431f2.jpg",
+    "static/media/img7.jpg": "/corporate/static/media/img7.55be95b71959267f1c62.jpg",
+    "static/media/img9.jpg": "/corporate/static/media/img9.62fae622b50012e2a9e6.jpg",
+    "static/media/img2.jpg": "/corporate/static/media/img2.40a9d29b9f470a11669e.jpg",
+    "static/media/img4.jpg": "/corporate/static/media/img4.ba37c27ab5da9b7d7e66.jpg",
+    "static/media/blog3.jpg": "/corporate/static/media/blog3.bcca9fb438e228c66612.jpg",
+    "static/media/blog1.jpg": "/corporate/static/media/blog1.41fc52f527bd1b05cdcd.jpg",
+    "static/media/blog2.jpg": "/corporate/static/media/blog2.b31a167d23173c955d09.jpg",
+    "static/media/team5.jpg": "/corporate/static/media/team5.849950bc338b0b322c6a.jpg",
+    "static/media/team1.jpg": "/corporate/static/media/team1.5c62cdf454c12337aaa0.jpg",
+    "static/media/img1.jpg": "/corporate/static/media/img1.69259de9db0d2c31ef01.jpg",
+    "static/media/team3.jpg": "/corporate/static/media/team3.5de03ca8026a02a7e51a.jpg",
+    "static/media/team4.jpg": "/corporate/static/media/team4.1f145d6d7a77d3f7fa1d.jpg",
+    "static/media/team8.jpg": "/corporate/static/media/team8.fa903df42616f722725a.jpg",
+    "static/media/team7.jpg": "/corporate/static/media/team7.8abf58b17d3dccaddec4.jpg",
+    "static/media/team2.jpg": "/corporate/static/media/team2.5d54ef0fad5f779cd88b.jpg",
+    "static/media/team6.jpg": "/corporate/static/media/team6.51e55dc38b7ce790b9b8.jpg",
+    "index.html": "/corporate/index.html",
+    "main.01d55d55.css.map": "/corporate/static/css/main.01d55d55.css.map",
+    "main.a9fa7ec8.js.map": "/corporate/static/js/main.a9fa7ec8.js.map",
+    "453.82f77313.chunk.js.map": "/corporate/static/js/453.82f77313.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01d55d55.css",
+    "static/js/main.a9fa7ec8.js"
+  ]
+}

@@ -23,7 +23,7 @@ function AppFooter() {
 
   return (
     <Container fluid>
-      <div className="copyright">&copy; 2022 Corporate. All Right Reserved.</div>
+      <div className="copyright">&copy; 2025 Corporate. All Right Reserved.</div>
       <div className="socials">
         <ul>
           <li><a href="https://www.facebook.com"><i className="fab fa-facebook-f"></i></a></li>

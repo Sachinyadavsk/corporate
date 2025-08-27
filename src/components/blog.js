@@ -9,7 +9,7 @@ const blogData = [
     image: require('../assets/images/blog1.jpg'),
     time: '15 Nov 2016',
     title: 'Coffee Lovers',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, asperiores eaque quibusdam eum quod cum nesciunt.',
+    description: 'Coffee lovers are passionate about rich flavors, comforting aromas, and the energizing boost every cup brings. They cherish the ritual of brewing, whether it’s a quick espresso, creamy latte, or slow-brewed pour-over. For coffee enthusiasts, each sip is more than a drink—it’s an experience, a lifestyle, and a daily joy.',
     link: 'https://www.google.com'
   },
   {
@@ -17,7 +17,7 @@ const blogData = [
     image: require('../assets/images/blog2.jpg'),
     time: '10 Nov 2016',
     title: 'Tips for UI Design',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, asperiores eaque quibusdam eum quod cum nesciunt.',
+    description: 'Effective UI design focuses on simplicity, consistency, and usability. Keep layouts clean, ensure responsive adaptability across devices, and use a clear visual hierarchy to guide users. Provide feedback through interactions, maintain accessibility for all, and test regularly. A user-friendly interface enhances',
     link: 'https://www.facebook.com'
   },
   {
@@ -25,7 +25,7 @@ const blogData = [
     image: require('../assets/images/blog3.jpg'),
     time: '07 Nov 2016',
     title: 'Beautiful Day',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, asperiores eaque quibusdam eum quod cum nesciunt.',
+    description: 'A beautiful day is filled with positivity, warmth, and inspiration. It brings clear skies, gentle breezes, and moments that uplift the soul. Whether spent outdoors enjoying nature or indoors creating memories, a beautiful day reminds us to appreciate life’s simple joys, spread happiness, and embrace every',
     link: 'https://www.twitter.com'
   }
 ]

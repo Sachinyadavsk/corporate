@@ -5,21 +5,21 @@ var heroData = [
     id: 1,
     image: require('../assets/images/img-hero1.jpg'),
     title: 'The perfect design for your website',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab suscipit dicta nulla. Consequuntur obcaecati officiis, labore doloribus non tempore impedit consequatur ab dolor. Explicabo quam repellendus vero omnis, nisi odio!',
+    description: 'The perfect design for your website—clean, responsive, fast, and tailored to convert visitors into customers.',
     link: 'https://www.google.com'
   },
   {
     id: 2,
     image: require('../assets/images/img-hero2.jpg'),
     title: 'Start Your Future Financial Plan',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab suscipit dicta nulla. Consequuntur obcaecati officiis, labore doloribus non tempore impedit consequatur ab dolor. Explicabo quam repellendus vero omnis, nisi odio!',
+    description: 'Start your future financial plan today—set clear goals, save consistently, invest wisely, and secure long-term stability for lasting financial freedom.',
     link: 'https://www.facebook.com'
   },
   {
     id: 3,
     image: require('../assets/images/img-hero3.jpg'),
     title: 'Enjoy the Difference',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab suscipit dicta nulla. Consequuntur obcaecati officiis, labore doloribus non tempore impedit consequatur ab dolor. Explicabo quam repellendus vero omnis, nisi odio!',
+    description: 'Enjoy the difference—experience smarter choices, greater opportunities, and a lifestyle upgrade that brings confidence, comfort, and lasting satisfaction daily.',
     link: 'https://www.twitter.com'
   }
 ]

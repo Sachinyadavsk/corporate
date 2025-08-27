@@ -12,7 +12,7 @@ const teamsData = [
     linkedinLink: 'https://www.linkedin.com',
     name: 'Gabriel Hart',
     designation: 'CEO',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui facilis, totam maiores.'
+    description: 'Our teams deliver creativity, innovation, and excellence for every project.'
   },
   {
     id: 2,
@@ -22,7 +22,7 @@ const teamsData = [
     linkedinLink: 'https://www.linkedin.com',
     name: 'David Antony',
     designation: 'Manager',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui facilis, totam maiores.'
+    description: 'Our teams deliver creativity, innovation, and excellence for every project.'
   },
   {
     id: 3,
@@ -32,7 +32,7 @@ const teamsData = [
     linkedinLink: 'https://www.linkedin.com',
     name: 'Nicholas Perry',
     designation: 'UX Designer',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui facilis, totam maiores.'
+    description: 'Our teams deliver creativity, innovation, and excellence for every project.'
   },
   {
     id: 4,
@@ -42,7 +42,7 @@ const teamsData = [
     linkedinLink: 'https://www.linkedin.com',
     name: 'Sarah Wills',
     designation: 'Developer',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui facilis, totam maiores.'
+    description: 'Our teams deliver creativity, innovation, and excellence for every project.'
   },
   {
     id: 5,
@@ -52,7 +52,7 @@ const teamsData = [
     linkedinLink: 'https://www.linkedin.com',
     name: 'Sophia Pitt',
     designation: 'Developer',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui facilis, totam maiores.'
+    description: 'Our teams deliver creativity, innovation, and excellence for every project.'
   },
   {
     id: 6,
@@ -62,7 +62,7 @@ const teamsData = [
     linkedinLink: 'https://www.linkedin.com',
     name: 'Taylor Lopez',
     designation: 'Developer',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui facilis, totam maiores.'
+    description: 'Our teams deliver creativity, innovation, and excellence for every project.'
   },
   {
     id: 7,
@@ -72,7 +72,7 @@ const teamsData = [
     linkedinLink: 'https://www.linkedin.com',
     name: 'Ryan Giggs',
     designation: 'Content Writer',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui facilis, totam maiores.'
+    description: 'Our teams deliver creativity, innovation, and excellence for every project.'
   },
   {
     id: 8,
@@ -82,7 +82,7 @@ const teamsData = [
     linkedinLink: 'https://www.linkedin.com',
     name: 'David Smith',
     designation: 'SEO Expert',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui facilis, totam maiores.'
+    description: 'Our teams deliver creativity, innovation, and excellence for every project.'
   }
 ]
 

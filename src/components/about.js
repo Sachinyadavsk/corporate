@@ -23,8 +23,8 @@ function AppAbout() {
             <Image src={img1} />
           </Col>
           <Col sm={6}>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit dicta veritatis sint quidem asperiores magni eaque praesentium temporibus, magnam, eveniet consequatur possimus nihil? Nemo deserunt repudiandae soluta neque doloribus, quo!</p>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae alias ex error distinctio laudantium recusandae, iure. Vel nisi soluta, minus consectetur reiciendis laborum, laudantium perspiciatis quos molestias quam eum.</p>
+            <p>At corporate, we believe in driving growth through innovation, trust, and excellence. Founded with a vision to create meaningful solutions, we are dedicated to delivering high-quality products and services that empower businesses and individuals alike.</p>
+            <p>With a team of passionate professionals and years of expertise, we combine technology, creativity, and strategy to transform ideas into impactful results. Our commitment goes beyond business—we focus on building lasting partnerships, fostering sustainability, and making a positive difference in the communities we serve.</p>
             <div className='progress-block'>
               <h4>HTML / CSS / Javascript</h4>
               <ProgressBar now={html} label={`${html}%`} />
